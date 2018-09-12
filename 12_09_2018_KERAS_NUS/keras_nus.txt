@@ -1,1 +1,30 @@
 #Neural Networks
+- "Depth" of a neural network is the number of layers it has.
+
+We can avoid the training plateu by having the "right" architecture of the network.
+
+Deep learning concepts:
+
+-Inputs.
+  Set of features to feed into a network. Each feature has a label in deep learning because it is supervised learning.
+-Layers
+  
+-Weights
+  Hebb's Rule: If two neurons fire together the synapse between them gets stronger. If two neurons never fire together the connection dies   away.
+
+-Model
+  Is already trained.
+  A model can be serialized(stored, even compressed), pickled (imported/exported) or retrained.
+  
+-Parameters
+  Weights:
+  Bias:
+
+-Hyperparameters
+  Number of Layers
+  Number of hidden layers
+  Iterations
+  Learning rate
+  Number ofneural units
+  Activation function: ReLu for the hidden layers. Sigmoid for TRUE/FALSE classification. Softmax for weight probability soft classification.
+ LOL
